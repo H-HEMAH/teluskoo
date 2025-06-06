@@ -1,2 +1,2 @@
-receipe fooods
+receipe food
 pasta
