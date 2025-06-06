@@ -4,3 +4,4 @@ pasta
 pizza
 burger
 cold drink
+soft drinks
